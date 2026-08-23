@@ -1,4 +1,5 @@
 import os
+import streamlit as st
 
 from google import genai
 
@@ -13,7 +14,7 @@ class Agente:
 
         self.buscador = buscador
 
-        api_key = st.secrets("GEMINI_API_KEY")
+        api_key = sst.secrets["GEMINI_API_KEY"]
 
         if not api_key:
             raise ValueError(
