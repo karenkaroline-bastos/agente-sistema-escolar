@@ -70,3 +70,13 @@ O fluxo principal é:
                     (Streamlit)
 
 
+## 🚀 Aplicação em Produção
+
+A aplicação foi implantada utilizando Streamlit Community Cloud.
+
+🔗 **Acesse a aplicação:**
+https://agente-sistema-escolar-kb.streamlit.app/
+
+### 📸 Aplicação funcionando
+
+![Agente Sistema Escolar](docs/agente-sistema-escolar.png)
